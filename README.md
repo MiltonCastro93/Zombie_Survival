@@ -44,7 +44,24 @@ El desarrollo se centró en el **diseño de sistemas de oleadas, IA enemiga, con
 
 _(Imágenes de libre licencia utilizadas con fines académicos)_
 
-![Gameplay 1]()
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-02%20144750.png" width="380"/></td>
+    <td><img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-02%20144816.png" width="380"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-02%20144834.png" width="380"/></td>
+    <td><img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-02%20144852.png" width="380"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-02%20144943.png" width="380"/></td>
+    <td><img src="https://github.com/MiltonCastro93/Zombie_Survival/blob/main/Captura%20de%20pantalla%202025-11-02%20145153.png" width="380"/></td>
+  </tr>
+</table>
+
+</div>
 
 > *Vista del combate en primera persona, mostrando HUD, contador de rondas y enemigos activos.*
 
